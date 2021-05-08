@@ -16,3 +16,18 @@ body {
 #container h1 {
     font-size: 20px;
 }
+
+#headder {
+    background: black;
+    color: #ffffff;
+    padding: 0.5em;
+    margin: 0;
+    font-weight: bold;
+    box-shadow: 0px 5px 50px 0px #00ff00;
+}
+
+#headder #tagline{
+    font-weight: normal;
+    font-size: 0.8em;
+    margin: 0 0 0 1em;
+}
