@@ -1,4 +1,18 @@
 body {
-    text-align:center;
-    background-color: #0018f0;
+    color: #9366e7;
+    text-align:left;
+    background-color: #000c74;
+    font-family: Arial;
+    font-size: 16px;
+}
+
+#container {
+    width: 70%;
+    padding: lem;
+    text-align:left;
+    border: 1px  #29fee3;
+}
+
+#container h1 {
+    font-size: 20px;
 }
